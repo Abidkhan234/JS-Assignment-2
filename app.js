@@ -400,3 +400,69 @@
 //? Question no 11 end
 
 //! Chapter no 9,10 and 11 end 
+
+//! Chapter no 12 and 13 start
+
+//? Question no 1 start
+
+//? Question no 1 end
+
+//? Question no 2 start
+
+// var num1 = Number(prompt("Enter a number"));
+// var num2 = Number(prompt("Enter a number"));
+// var largeNum;
+
+// if (num1 > num2) {
+//     largeNum = num1;
+//     alert("First value is greater than second value");
+// } else if (num2 > num1) {
+//     largeNum = num2;
+//     alert("Second value is greater than first value");
+// }else{
+//     alert("First value is equal to Second value");
+// }
+
+//? Question no 2 end
+
+//? Question no 3 start
+
+// var userNum = prompt("Enter a number");
+
+// if(userNum == 0){
+//     alert("Entered value is "+userNum);
+// }else if(userNum > 0){
+//     alert("Entered value is positive");
+// }else{
+//     alert("Entered value is negative");
+// }
+
+//? Question no 3 end
+
+//? Question no 4 start
+
+// var userInput = prompt("Enter one vowel");
+// var T = "Correct!";
+
+// if (userInput.length == 1) {
+//     if (userInput == "a") {
+//         alert(T);
+//     } else if (userInput == "e") {
+//         alert(T);
+//     } else if (userInput == "o") {
+//         alert(T);
+//     } else if (userInput == "u") {
+//         alert(T);
+//     } else if (userInput == "i") {
+//         alert(T);
+//     } else {
+//         alert("Incorrect");
+//     }
+// } else {
+//     alert("Enter one vowel");
+// }
+
+//? Question no 4 end
+
+
+//! Chapter no 12 and 13 end
