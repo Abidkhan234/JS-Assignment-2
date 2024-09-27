@@ -510,7 +510,6 @@
 
 // console.log(greeting);
 
-
 //? Queston no 7 end
 
 
