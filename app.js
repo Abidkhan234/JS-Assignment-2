@@ -464,5 +464,54 @@
 
 //? Question no 4 end
 
+//? Question no 5 start
+
+// var correctPass = "sungodnika";
+// var userPass = prompt("Enter your password");
+
+// if(userPass.length == 0){
+//     alert("Please enter your password");
+// }else if(userPass == correctPass){
+//     alert("Correct! The password you entered matches the original password");
+// }else{
+//     alert("Incorrect Password");
+// }
+
+//? Question no 5 end
+
+//? Question no 6 start
+
+// var greeting;
+// var hour = 13;
+
+// if (hour < 18) {
+//     greeting = "Good evening";
+// } else {
+//     greeting = "Good day";
+// }
+// console.log(greeting);
+
+//? Question no 6 end
+
+//? Queston no 7 start
+
+// var userTime = Number(prompt("Enter your time in 24 hours clock format like (1900 = 7pm)"));
+// var greeting;
+
+// if (userTime >= 0 && userTime < 1200) {
+//     greeting = "Good Morning";
+// } else if (userTime >= 1200 && userTime < 1700) {
+//     greeting = "Good Afternoon";
+// } else if (userTime >= 1700 && userTime < 2100) {
+//     greeting = "Good evening";
+// } else if (userTime >= 2100 && userTime <= 2359) {
+//     greeting = "Good night";
+// }
+
+// console.log(greeting);
+
+
+//? Queston no 7 end
+
 
 //! Chapter no 12 and 13 end
