@@ -661,4 +661,63 @@
 
 //? Question no 12 end
 
+//? Question no 13 start
+
+// var Devices = ["Keyboard", "Mouse", "Monitor", "Printer"];
+
+// document.write("<p>OUT</p>");
+
+// document.write(Devices[0]);
+
+// document.write("<p>OUT</p>");
+
+// document.write(Devices[1]);
+
+// document.write("<p>OUT</p>");
+
+// document.write(Devices[2]);
+
+// document.write("<p>OUT</p>");
+
+// document.write(Devices[3]);
+
+//? Question no 13 end
+
+//? Question no 14 start
+
+// var Devices = ["Keyboard", "Mouse", "Monitor", "Printer"];
+
+// document.write("<p>OUT</p>");
+
+// document.write(Devices[3]);
+
+// document.write("<p>OUT</p>");
+
+// document.write(Devices[2]);
+
+// document.write("<p>OUT</p>");
+
+// document.write(Devices[1]);
+
+// document.write("<p>OUT</p>");
+
+// document.write(Devices[0]);
+
+//? Question no 14 end
+
+//? Question no 15 start
+
+// var manufacturers = ["Apple", "Samsung", "Motorola", "Nokia", "Sony", "Haier"];
+
+// document.write('<label for="manufacturers">Choose a phone manufacturer:</label>');
+// document.write('<select id="manufacturers">');
+
+// for (var i = 0; i < manufacturers.length; i++) {
+//     document.write('<option value="' + manufacturers[i] + '">' + manufacturers[i] + '</option>');
+// }
+
+// document.write('</select>');
+
+//? Question no 15 end
+
 //! Chapter no 13 to 15 end
