@@ -512,5 +512,153 @@
 
 //? Queston no 7 end
 
-
 //! Chapter no 12 and 13 end
+
+//! Chapter no 13 to 15 start
+
+//? Question no 1 start
+
+// var studentsName = [];
+
+//? Question no 1 end
+
+//? Question no 2 start
+
+// var studentsName = [];
+
+//? Question no 2 end
+
+//? Question no 3 start
+
+// var stringArr = ["Abid", "Ahmed", "Ali", "Mohsin"];
+
+//? Question no 3 end
+
+//? Question no 4 start
+
+// var numberArr = [1, 2, 3, 4, 5];
+
+//? Question no 4 end
+
+//? Question no 5 start
+
+// var booleanArr = [true,false];
+
+//? Question no 5 end
+
+//? Question no 6 start
+
+// var mixArr = ["Abid", 1, true];
+
+//? Question no 6 end
+
+//? Question no 7 start
+
+// var qualificationArr = ["SSC", "HSC", "BCS", "MS", "BCOM", "BS", "M.Phil", "PhD"];
+
+// for (var i = 0; i < qualificationArr.length; i++) {
+//     document.write(i,")",qualificationArr[i]);
+//     document.write("<br>");
+// }
+
+//? Question no 7 end
+
+//? Question no 8 start
+
+// var studentName = ["Abid", "Ali", "Ahmed"];
+// var studentScore = [400, 300, 200];
+// var percentage;
+
+//! Withoout for loop   
+// document.write("Score of ", studentName[0], " is ", studentScore[0], " Percentage ", percentage = studentScore[0] / 500 * 100, "%");
+
+// document.write("<br>");
+
+// document.write("Score of ", studentName[1], " is ", studentScore[1], " Percentage ", percentage = studentScore[1] / 500 * 100, "%");
+
+// document.write("<br>");
+
+// document.write("Score of ", studentName[2], " is ", studentScore[2], " Percentage ", percentage = studentScore[2] / 500 * 100, "%");
+
+//! With for loop
+// for (var i = 0; i<studentName.length;i++){
+//     document.write("Score of ", studentName[i], " is ", studentScore[i], " Percentage ", percentage = studentScore[i] / 500 * 100, "%");
+//     document.write("<br>");
+// }
+
+//? Question no 8 end
+
+//? Question no 9 start
+
+// var Colors = ["Red", "Green", "Yellow", "Brown", "Black", "White"];
+
+// var userColor = prompt("Enter a color to add at the start of array");
+// var userColor2 = prompt("Enter a color to add at the end of array");
+
+// var userIndex = prompt("Enter the index where you want to add the Color name");
+// var userColor3 = prompt("Enter a color to add in array");
+
+// var userIndex2 = Number(prompt("Enter the index where you want to delete the Color name"));
+// var userdelCount =Number(prompt("Enter the amount of Colors name you want delete")) ;
+
+// document.write("Before ", Colors);
+// document.write("<br>");
+// document.write("<br>");
+
+// Colors.unshift(userColor);
+
+// Colors.push(userColor2);
+
+// Colors.unshift("Purple,Gray");
+
+// Colors.pop();
+
+// Colors.shift();
+
+// Colors.splice(userIndex, 0, userColor3);
+
+// Colors.splice(userIndex2,userdelCount);
+
+// document.write("After ", Colors);
+
+//? Question no 9 end
+
+//? Question no 10 start
+
+// var studentScore = [320,230,120,500];
+
+// document.write("Before ",studentScore);
+// document.write("<br>");
+
+// studentScore.sort();
+
+// document.write("After ",studentScore);
+
+//? Question no 10 end
+
+//? Question no 11 start
+
+// var Cities = ["Karachi", "Lahore", "Islamabad", "Dadu", "Thatta"];
+// var selectedCities = Cities.slice(1,3);
+
+// document.write("<p>Cities list:</p>");
+// document.write(Cities);
+
+// document.write("<p>Selected Cities:</p>");
+// document.write(selectedCities);
+
+//? Question no 11 end
+
+//? Question no 12 start
+
+// var arr = ["This", "is", "my", "cat"];
+// var arr2 = arr.join(" ");
+
+// document.write("Before ",arr);
+// document.write("<br>");
+
+// document.write("After ",arr2);
+
+//? Question no 12 end
+
+//! Chapter no 13 to 15 end
