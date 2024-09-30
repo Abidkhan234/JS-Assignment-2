@@ -721,3 +721,159 @@
 //? Question no 15 end
 
 //! Chapter no 13 to 15 end
+
+//! Chapter no 16 to 20 start
+
+//? Question no 1 start
+
+// var arr = [[1, 2, 3], [2, 4, 6], [1, 3, 5]];
+
+//? Question no 1 end
+
+//? Qustion no 2 start
+
+// var arr = [[0, 1, 2, 3], [1, 0, 1, 2], [2, 1, 0, 1]];
+
+// for (var i = 0; i < arr.length; i++) {
+//     document.write(arr[i])
+//     document.write("<br>")
+// }
+
+//? Qustion no 2 end
+
+//? Question no 3 start
+
+// for(var i = 1;i<=10;i++){
+//     document.write(i);
+//     document.write("<br>");
+// }
+
+//? Question no 3 end
+
+//? Question no 4 start
+
+// var userCount = Number(prompt("Enter a number for length"));
+// var userNum = Number(prompt("Enter a number for multiplication"));
+
+// for (var i = 1; i <= userCount; i++) {
+//     document.write(userNum, " x ", i, " = ", userNum * i);
+//     document.write("<br>");
+// }
+
+//? Question no 4 end
+
+//? Question no 5 start 
+
+// var friuts = ["Banana", "Apple", "Mango", "Orange"];
+
+// for (var i = 0; i < friuts.length; i++) {
+//     document.write(friuts[i]);
+//     document.write("<br>");
+//     document.write("<br>");
+//     document.write("Element at ",i," index is ",friuts[i]);
+//     document.write("<br>");
+//     document.write("<br>");
+// }
+
+//? Question no 5 end
+
+
+//? Question no 6 start
+
+// for (var i = 1; i <= 15; i++) {
+//     document.write(i," ");
+// }
+
+// for (var i = 10; i > 0; i--) {
+//         document.write(i," ");
+// }
+
+// for (var i = 1; i <= 20; i++) {
+//     if (i % 2 === 0) {
+//         document.write(i," ");
+//     }
+// }
+
+// for (var i = 1; i <= 20; i++) {
+//     if (i % 2 !== 0) {
+//         document.write(i," ");
+//     }
+// }
+
+// for (var i = 2; i <= 20; i++) {
+//     if (i % 2 === 0) {
+//         document.write(i,"k"," ");
+//     }
+// }
+
+//? Question no 6 end
+
+//? Questio no 7 start
+
+// var Items = ["cake", "apple pie", "cookie", "chips", "patties"];
+// var userInput = prompt("Enter what you want to eat from bakery");
+// var flag = false;
+
+// for (var i = 0; i < Items.length; i++) {
+//     if(userInput == Items[i]){
+//         flag = true;
+//     }
+// }
+
+// if(flag){
+//     alert(userInput+" is "+" available");
+// }else{
+//     alert("Sorry this "+ userInput +" not available")
+// }
+
+//? Questio no 7 end
+
+//? Questio no 8 start
+
+// var A = [24, 53, 78, 91, 12];
+// var maxNum = 0;
+
+// for (var i = 0; i < A.length; i++) {
+//     if(A[i] > maxNum ){
+//         maxNum = A[i];
+//     }
+// }
+
+// document.write("Array items: " + A);
+
+// document.write("<br>");
+
+// document.write("The largest number is: " + maxNum);
+
+//? Questio no 8 end
+
+//? Questio no 9 start
+
+// var A = [24, 53, 78, 91, 12];
+// var minNum = A[0];
+
+// for (var i = 0; i < A.length; i++) {
+//     if(A[i] < minNum ){
+//         minNum = A[i];
+//     }
+// }
+
+// document.write("Array items: " + A);
+
+// document.write("<br>");
+
+// document.write("The Minimum number is: " + minNum);
+
+//? Questio no 9 end
+
+//? Question no 10 start
+
+// for (var i = 1; i <= 100; i++) {
+//     if (i % 5 === 0) {
+//         document.write(i + " ");
+//     }
+// }
+
+//? Question no 10 end
+
+//! Chapter no 16 to 20 end
